@@ -1,14 +1,14 @@
 {
-  "name": "modern_portfolio",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Responsive portfolio website",
+  "description": "Responsive portfolio",
   "main": "index.js",
-  "homepage": "https://robb.inc.github.io/portfolio",
+  "homepage": "https://robbinc.github.io/portfolio",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
   },
-  "author": "Brad Traversy",
+  "author": "robbinc",
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^1.2.0",
